@@ -1,7 +1,12 @@
 # wallsteam-wolf
-Automation to analises and profit in Steam
 
-# Tasks
+## V1
+Automação para analisar o mercado de venda de pacotes de cartas na Steam.
 
-- [] Check 1000 Gems price (every 8 hours)
-- [] Check best bonus packages (sale price >< gems price)
+## TO-DO
+
+- [ ] Verificar o preço de um pacote de 1000 gemas (uma vez por dia).
+- [ ] Veficiar o pacotes de cartas disponíveis para criação (baseado na conta Steam conectada).
+- [ ] Elencar os melhores pacotes, baseado em:
+  - [ ] Preço de venda.
+  - [ ] Preço em gemas.
